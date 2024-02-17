@@ -4,12 +4,12 @@ This .bat script will allow you to mimic your windows pc as a Galaxy Book laptop
 ![Image showing the samsung notes galaxy books error ](https://preview.redd.it/nzxqcqw9dyib1.png?width=778&format=png&auto=webp&s=493855bde83d0712952a36d6a5a8ab8a5f34693c)
 
 ### 4 versions
-- Galaxybook_mask.bat
+- Galaxybook_mask(startup).bat:(not recommended)you will see a cmd prompt everytime you start your pc.
 - Galaxybook_mask(no startup).bat
 - samsungnotes-better.bat: Non startup version that launches samsung   notes, can be used as  a makeshift shortcut
 - (Recommended)samsungnotes-betterv2.bat:This version stores the previous  registery key that it changes  and then reverts the key back  once the  app has  been launched
 
-### To undo the changes made  from running Galaxy book mask(startup bat), locate & delete, then restart pc, the registry values will revert back to factory values
+### To undo the changes made  from running Galaxy book mask(startup bat),ie: if you keep seeing a cmd prompt everytime you start your device, locate & delete, then restart pc, the registry values will revert back to factory values
 
 `C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp\GalaxyBookMask.bat` 
 
