@@ -20,7 +20,7 @@ This .bat script will allow you to mimic your windows pc as a Galaxy Book laptop
 #### Look for: -
 `SystemManufacturer: Samsung`
 `SystemProductName: NP960XFG-KC4UK`
-# "Connecting to a service" error solution
+# "Unable to sync?/Connecting to a service" error solution
 
 - If you're dealing with that annoying "connecting to a service" pop-up or Samsung Notes freezing while trying to sync or if you are unable to sync samsung notes, here's what you can do:
 
